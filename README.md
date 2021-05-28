@@ -1,2 +1,2 @@
 # DBM-Raw-Data
-dbm rawdata
+Komutların Tamamı Bana Ait İstediğiniz Gibi Alabilirsiniz.
